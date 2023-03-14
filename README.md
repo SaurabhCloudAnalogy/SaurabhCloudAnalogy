@@ -7,7 +7,7 @@
 <img src ="https://github-profile-trophy.vercel.app/?username=SaurabhCloudanalogy&theme=onedark">
 
 
-- 🔭 I’m currently working on as **Developer in iOS application** 
+- 🔭 I’m currently working on as **Developer in full stack application** 
 - 👯 I’m looking to collaborate on **iOS development**
 - 💬 Ask me about **iOS development, React native, Java script, Android.**
 - 📫 How to reach me Saurabhpathak@forcebolt.com
